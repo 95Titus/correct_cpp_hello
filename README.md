@@ -4,7 +4,7 @@ Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 master|[![Build Status](https://travis-ci.org/95Titus/correct_cpp_hello.svg?branch=master)](https://travis-ci.org/95Titus/correct_cpp_hello)|[![codecov.io](https://codecov.io/github/95Titus/correct_cpp_hello/coverage.svg?branch=master)](https://codecov.io/github/95Titus/correct_cpp_hello/branch/master)
 
-[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello'.
+[Correct C++](https://github.com/95Titus/correct_cpp) chapter 'Hello'.
 
 ## Goal
 
